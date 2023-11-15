@@ -1,0 +1,46 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "user": "Ben",
+      "name": "Shiny Light",
+      "price": 150,
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "user": "Ben",
+      "name": "Plato's Cave",
+      "price": 1200,
+      "amount": 1
+    },
+    {
+      "id": 3,
+      "user": "Ben",
+      "name": "Plato's Cave",
+      "price": 1200,
+      "amount": 1
+    },
+    {
+      "id": 4,
+      "user": "Ben",
+      "name": "Shiny Light",
+      "price": 150,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "user": "Ben",
+      "name": "Shiny Light",
+      "price": 150,
+      "amount": 1
+    },
+    {
+      "id": 6,
+      "user": "Ben",
+      "name": "Shiny Light",
+      "price": 150,
+      "amount": 1
+    }
+  ]
+}
